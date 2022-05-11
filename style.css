@@ -9,3 +9,20 @@
     display: none;
      
 }
+
+
+#displaywith{
+    border: 1px solid blue;
+    padding: 10px;
+    background:linear-gradient(rgb(223, 118, 118),rgb(199, 154, 71),yellow);
+    width : 50%;
+
+}
+
+#displaywithout{
+    border: 1px solid blue;
+    padding: 10px;
+    background:linear-gradient(rgb(196, 196, 18),rgb(163, 103, 113),rgb(111, 111, 214),rgb(104, 206, 104),purple,);
+    width : 50%;
+
+}
